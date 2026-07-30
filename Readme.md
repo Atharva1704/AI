@@ -1,0 +1,6 @@
+- Langchain
+- Langgraph
+  - Reducers
+- RAG
+- VectorDB
+- Deploying open-source models for inference
