@@ -1,0 +1,12 @@
+# Test Case
+- Unrelated to Github PR prompt is asked
+    - Should return no output and should ask to provide files
+- PR number or Owner or RepoName is not provided
+    - Ask to provide complete details
+- Github access not provided
+    - Return with correct error
+- If extra review instruction is provided 
+    - then it must be stored and passed to AI prompt as additional consideration on top of current existing ones
+- If the file size of the prompt is larger than context window
+    - Chunk the files and then pass them
+- 

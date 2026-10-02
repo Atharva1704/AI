@@ -1,0 +1,13 @@
+# Ignore at any directory depth
+__pycache__/
+.venv/
+.env
+.env.*
+!.env.example
+*.pyc
+*.log
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store

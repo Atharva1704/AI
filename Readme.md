@@ -1,6 +1,13 @@
 - Langchain
+  - creating agents
+  - Understanding models
+  - Messages
+  - Tools
+  - Structured output
+  - Middleware
 - Langgraph
   - Reducers
 - RAG
 - VectorDB
 - Deploying open-source models for inference
+
